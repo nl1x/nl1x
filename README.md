@@ -7,6 +7,9 @@
 <br clear="both">
 
 <div align="center">
+  <a href="" target="_blank">
+    <img height="30" src="https://wakatime.com/badge/user/207569d6-f280-4d27-8698-7dc82ca09ab5.svg"  />
+  </a>
   <a href="https://www.linkedin.com/in/nathan-jeannot-a654b02b1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -28,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />

@@ -4,12 +4,17 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="" target="_blank">
     <img height="30" src="https://wakatime.com/badge/user/207569d6-f280-4d27-8698-7dc82ca09ab5.svg"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/nathan-jeannot-a654b02b1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>

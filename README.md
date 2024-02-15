@@ -15,6 +15,7 @@ I started programming on my own in secondary school. I started with Skript, then
 
 About my Python projects, I started some projects such as discord bots and a desktop application to edit my Discord Rich Presence.
 About my Java projects, it was principally minecraft plugins, such as an Hikabrain (which is approximatly the same mini-game as The Bridge) or a Golem-Rush.
+
 Unfortunately, I didn't know how to use GitHub at this time, so I lost all these projects when I changed my computer.
 
 > <h3 align="left">Projects</h3>

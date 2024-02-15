@@ -16,6 +16,9 @@
   <a href="https://app.hackthebox.com/profile/1741803" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
   </a>
+  <a href="https://wakatime.com/@207569d6-f280-4d27-8698-7dc82ca09ab5">
+    <img src="https://wakatime.com/badge/user/207569d6-f280-4d27-8698-7dc82ca09ab5.svg" alt="Total time coded since Sep 8 2023" />
+  </a>
 </div>
 
 ###

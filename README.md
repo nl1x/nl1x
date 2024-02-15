@@ -2,6 +2,27 @@
 
 <h1 align="center">Hey ! I'm L1x  👋🏼</h1>
 
+
+<h2 align="left">📊 Who am I ?</h2>
+
+> <h3 align="left">Presentation</h3>
+
+I'm L1x, a French student in my first year at Epitech. My real name is Nathan.
+
+> <h3 align="left">History</h3>
+
+I started programming on my own in secondary school. I started with Skript, then Python, and then Java.
+
+About my Python projects, I started some projects such as discord bots and a desktop application to edit my Discord Rich Presence.
+About my Java projects, it was principally minecraft plugins, such as an Hikabrain (which is approximatly the same mini-game as The Bridge) or a Golem-Rush.
+Unfortunately, I didn't know how to use GitHub at this time, so I lost all these projects when I changed my computer.
+
+> <h3 align="left">Projects</h3>
+
+I'm currently working on [HashTek](https://github.com/hashtek-mc), a French minecraft server for the community by the community.
+
+<h2 align="left">🌐 Links</h2>
+
 ###
 
 <br clear="both">

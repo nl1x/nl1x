@@ -3,7 +3,7 @@
 <h1 align="center">Hey ! I'm L1x  👋🏼</h1>
 
 
-<h2 align="left">📊 Who am I ?</h2>
+<h2 align="left">👤 Who am I ?</h2>
 
 > <h3 align="left">Presentation</h3>
 

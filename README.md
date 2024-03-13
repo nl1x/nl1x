@@ -54,7 +54,7 @@ I'm currently working on [HashTek](https://github.com/hashtek-mc), a French mine
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nl1x&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="169" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nl1x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=true&order=2" height="169" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=nl1x&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="169" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nl1x&radius=16&theme=modern-lilac&area=true&order=5&bg_color=000000&hide_border=true" height="260" alt="activity-graph graph"  />
 </div>
 

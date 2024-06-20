@@ -7,7 +7,7 @@
 
 > <h3 align="left">Presentation</h3>
 
-I'm L1x, a French student in my first year at Epitech. My real name is Nathan.
+I'm L1x, a French student in my second year at Epitech. My real name is Nathan.
 
 > <h3 align="left">History</h3>
 

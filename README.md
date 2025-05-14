@@ -18,10 +18,6 @@ About my Java projects, it was principally minecraft plugins, such as an Hikabra
 
 Unfortunately, I didn't know how to use GitHub at this time, so I lost all these projects when I changed my computer.
 
-> <h3 align="left">Projects</h3>
-
-I'm currently working on [HashTek](https://github.com/hashtek-mc), a French minecraft server for the community by the community.
-
 <h2 align="left">🌐 Links</h2>
 
 ###
